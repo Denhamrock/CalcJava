@@ -1,2 +1,3 @@
 # CalcJava
-A basic Java calculator
+A basic java calculator
+i mean it does what it says
